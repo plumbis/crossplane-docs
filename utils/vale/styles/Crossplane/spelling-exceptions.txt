@@ -3,6 +3,7 @@ conformant
 Bootstrap
 CRDs
 Crossplane
+Crossplane's
 editCode
 Env
 GCP's
@@ -24,6 +25,7 @@ stdout
 tolerations
 Upbound
 Upbound's
+VSCode
 Webpack
 xpkg
 XRD

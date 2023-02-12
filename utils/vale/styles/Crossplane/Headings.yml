@@ -8,3 +8,4 @@ indicators:
   - ':'
 exceptions:
   - Vale
+  - Kubernetes
